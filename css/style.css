@@ -12,6 +12,7 @@
     margin: 30px 70px;
     text-align: center;
     font-size: 20px;
+    margin-top: 20px;
 }
 
 .backgrond p {
@@ -41,7 +42,7 @@
 }
 
 .Party {
-    background-image: url(../public/Vectorrr.png), url(../public/Group\ 70.png);
+    background-image: url(../public/Vectorrr.png);
     width: 1320px;
     height: 600px;
     padding: 0px;
@@ -54,4 +55,101 @@
     margin: 20px 10px;
     padding: 10px;
     text-decoration: none;
+}
+
+.public {
+    width: 310px;
+    height: 450px;
+    margin-left: 880px;
+    justify-content: space-between;
+    background-color: black;
+    padding-inline-end: 30px;
+}
+
+.New {
+    text-align: center;
+    background-color: aliceblue;
+    width: 1320px;
+    height: 482px;
+    margin: 50px 50px;
+}
+
+#Place {
+    color: red;
+}
+
+#date {
+    color: red;
+}
+
+#time {
+    color: red;
+}
+
+.join {
+    padding: 10px 20px;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.now {
+    color: white;
+}
+
+.best {
+    background-color: white;
+    width: 1320px;
+    height: 463px;
+    text-align: start;
+    margin: 20px;
+
+}
+
+.offer {
+    color: red;
+}
+
+.sal {
+    color: red;
+}
+
+.img {
+    padding-left: 700px;
+}
+
+.is {
+    background-color: white;
+    width: 1320px;
+    height: 986.07px;
+    text-align: center;
+    margin: 100px;
+}
+
+.holi {
+    color: red;
+
+}
+
+.lal {
+    margin: 30px 50px;
+}
+
+.box {
+    text-align: left;
+    height: 662.07px;
+    width: 796.46px;
+    position: sticky;
+
+}
+
+.THE {
+    color: red;
+}
+
+.Subscribe {
+    background-color: pink;
+    margin: 50px 50px;
+    padding: 50px;
 }
